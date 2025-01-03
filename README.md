@@ -61,7 +61,7 @@ The settings page will show the user their account details and preferences. User
 Docker, Docker Compose, and Docker CLI <br> (Installing only Docker should provide all of the necessary Docker tools mentioned) <br>
 
 ### Setup
-**1.** Clone the repository by using this command in your terminal: ```git clone https://github.com/AA-n-d-y/coin-canvas.git``` <br>
+**1.** Clone the repository <br>
 **2.** Use this command in your terminal ```cd coin-canvas``` <br>
 **3.** Create a **.env file** in the **backend folder** <br>
 **4.** In the .env file, add these 3 variables: <br>
